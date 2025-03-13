@@ -30,4 +30,4 @@ if __name__ == "__main__":
     # 快速排序
     nums = [2, 4, 1, 0, 3, 5]
     quick_sort(nums, 0, len(nums) - 1)
-    print("快速排序完成后 nums =", nums)
+    print("快速排序完成后:\n nums =", nums)
