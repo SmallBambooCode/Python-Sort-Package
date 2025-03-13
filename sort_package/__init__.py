@@ -1,3 +1,8 @@
+"""
+算法设计与分析 NYIST
+23AI 2315775006 2315775009 2315775010
+"""
+
 from .bubble_sort import bubble_sort
 from .bucket_sort import bucket_sort
 from .counting_sort import counting_sort
