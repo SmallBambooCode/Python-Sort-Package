@@ -14,4 +14,4 @@ def bubble_sort(nums: list[int]):
 if __name__ == "__main__":
     nums = [4, 1, 3, 1, 5, 2]
     bubble_sort(nums)
-    print("冒泡排序完成后 nums =", nums)
+    print("冒泡排序完成后:\n nums =", nums)
